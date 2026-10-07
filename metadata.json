@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard - Studio Vidéo Explicative & Veo 3",
+  "description": "Studio de création et prévisualisation vidéo explicative synchronisée audio avec Veo 3 et animation minimaliste.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
